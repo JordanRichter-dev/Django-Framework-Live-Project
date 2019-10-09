@@ -6,7 +6,7 @@ Personal Code Summary for the Django team live project I was a part of at Prospe
 
 ## Introduction
 
-During my time as an Engineering Intern at Prosper IT Consulting, I was assigned to a two-week sprint working on software to be used as a data scraping travel app.  
+During my time as an Engineering Intern at Prosper IT Consulting, I was assigned to a two-week sprint working on software to be used as a data scraping travel web app.  
 
 My contributions to this Django sprint included tweaks and improvements of the front end styling and functionality.  
 
