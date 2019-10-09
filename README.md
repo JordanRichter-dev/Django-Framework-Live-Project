@@ -1,2 +1,2 @@
-# Django-Python-Live-Project
- 
+# Django/Python Front End Live Project
+
